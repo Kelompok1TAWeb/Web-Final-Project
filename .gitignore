@@ -1,0 +1,19 @@
+
+*.css
+*.map
+*.eot
+*.svg
+*.jpg
+*.js
+*.scss
+*.png
+*.ai
+*.txt
+*.woff
+*.woff2
+*.ttf
+*.otf
+Tugas Akhir Web/scss/theme/.DS_Store
+Tugas Akhir Web/scss/bootstrap/.DS_Store
+Tugas Akhir Web/img/blog/.DS_Store
+*.eps
